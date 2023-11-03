@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "527772976418",
+    "firebase_url": "https://hastenetest-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "hastenetest",
+    "storage_bucket": "hastenetest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527772976418:android:bf247b3812e34245aa917b",
+        "android_client_info": {
+          "package_name": "com.tekir.hastaneadmintest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527772976418-eprr5q072poi1hd2og5htr3gfpa7mn6h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBvD6ZRJtF5dQml6nnvyH9EnrZDo3ZSqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527772976418-eprr5q072poi1hd2og5htr3gfpa7mn6h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527772976418:android:0b3157b4b6361071aa917b",
+        "android_client_info": {
+          "package_name": "com.tekir.hastanetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527772976418-eprr5q072poi1hd2og5htr3gfpa7mn6h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBvD6ZRJtF5dQml6nnvyH9EnrZDo3ZSqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527772976418-eprr5q072poi1hd2og5htr3gfpa7mn6h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
